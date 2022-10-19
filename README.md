@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isaiahorekan
 - 👀 I’m interested in contributing to open source
-- 🌱 software developer
+- 🌱
 - 📫 How to reach me isaiahorekan@gmail.com
 
 <!---
