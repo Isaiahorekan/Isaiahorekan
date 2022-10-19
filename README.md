@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isaiahorekan
 - 👀 I’m interested in contributing to open source
-- 🌱 I’m currently learning Java
+- 🌱 software developer
 - 📫 How to reach me isaiahorekan@gmail.com
 
 <!---
